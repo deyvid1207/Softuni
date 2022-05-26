@@ -1,0 +1,16 @@
+C:\Users\lrn12\OneDrive\Работен плот\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.exe
+C:\Users\lrn12\OneDrive\Работен плот\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.deps.json
+C:\Users\lrn12\OneDrive\Работен плот\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.runtimeconfig.json
+C:\Users\lrn12\OneDrive\Работен плот\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.runtimeconfig.dev.json
+C:\Users\lrn12\OneDrive\Работен плот\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.dll
+C:\Users\lrn12\OneDrive\Работен плот\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.pdb
+C:\Users\lrn12\OneDrive\Работен плот\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.csproj.AssemblyReference.cache
+C:\Users\lrn12\OneDrive\Работен плот\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lrn12\OneDrive\Работен плот\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.AssemblyInfoInputs.cache
+C:\Users\lrn12\OneDrive\Работен плот\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.AssemblyInfo.cs
+C:\Users\lrn12\OneDrive\Работен плот\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.csproj.CoreCompileInputs.cache
+C:\Users\lrn12\OneDrive\Работен плот\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.dll
+C:\Users\lrn12\OneDrive\Работен плот\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\obj\Debug\net5.0\refint\1. Reverse a String.dll
+C:\Users\lrn12\OneDrive\Работен плот\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.pdb
+C:\Users\lrn12\OneDrive\Работен плот\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.genruntimeconfig.cache
+C:\Users\lrn12\OneDrive\Работен плот\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\obj\Debug\net5.0\ref\1. Reverse a String.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7cLx6swcceYvHLuQbdOru6N7O6mR/sY8CkJjBaE9SidxknPuc5qR8QdeU8IsT8BdbM9bpax+cdF59mTXkehOqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lrn12\\OneDrive\\Работен плот\\C# Advanced\\Stacks and Queues\\Stacks and Queues\\3. Simple Calculator\\3. Simple Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lrn12\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
